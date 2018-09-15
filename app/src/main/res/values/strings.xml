@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLInfodata</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_account">Create Account</string>
+    <string name="hint_conpasswors">Matching Password</string>
+    <string name="text_registation">Registation</string>
+    <string name="text_member">Alrady a member?Login</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_email_exit"> Email Alredy Exit</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="error_valid_email_password">Wrong email or password</string>
+    <string name="error_massage_name">Enter full name</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="success_message">Registation successful</string>
+    <string name="text_message">Well Come New Page</string>
+
+
+</resources>
